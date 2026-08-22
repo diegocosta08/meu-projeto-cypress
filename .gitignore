@@ -1,3 +1,6 @@
 node_modules
 cypress/videos
 cypress/screenshots
+evidencia-build.txt
+evidencia-execucao.txt
+.DS_Store
