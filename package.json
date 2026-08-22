@@ -1,0 +1,13 @@
+{
+  "name": "meu-projeto-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados com Cypress para execução via Docker",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.21.0"
+  }
+}
